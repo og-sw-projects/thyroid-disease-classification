@@ -1,2 +1,2 @@
 # thyroid-disease-classification
-A machine learning project to predict thyroid diseases
+A data analysis and machine learning project developed in collaboration with ChatGPT, centered around preprocessing and modeling to predict thyroid disorders.
